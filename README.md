@@ -8,3 +8,13 @@ Install Maven:
 ```
 sudo apt-get install maven
 ```
+ Build the App
+
+```
+mvn clean package
+```
+Run the java app
+```
+java -jar helloweb-1.0-SNAPSHOT.jar
+```
+Access from Public Browser
