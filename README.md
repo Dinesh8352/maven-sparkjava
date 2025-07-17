@@ -2,5 +2,9 @@
 Install Java:
 ```
 sudo apt-get update
-apt-get install openjdk-11-jdk-headless
+sudo apt-get install openjdk-11-jdk-headless
+```
+Install Maven:
+```
+sudo apt-get install maven
 ```
